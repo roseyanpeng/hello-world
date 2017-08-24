@@ -1,2 +1,3 @@
 # hello-world
-just an example
+the second stage of tutorials
+
